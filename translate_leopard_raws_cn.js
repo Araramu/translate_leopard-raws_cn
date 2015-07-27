@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-//javascript
+//js
 
-=======
->>>>>>> origin/master
 function getArrName(c_name) {
 	return document.getElementsByClassName(c_name);
 };
