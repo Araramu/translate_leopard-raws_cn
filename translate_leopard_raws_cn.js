@@ -46,7 +46,8 @@ var c_name = {
 	"Wakako-zake": "和歌子酒", 
 	"God Eater": "噬神者", 
 	"Baby Steps (2015)": "网球优等生 Baby Steps(2015)", 
-	"Arslan Senki": "阿尔斯兰战记 Arslan Senki", 
+	"Baby Steps": "网球优等生",
+	"Arslan Senki": "阿尔斯兰战记 Arslan Senki",
 	"One Piece": "海贼王", 
 	"Go! Princess Precure": "Go!PRINCESS光之美少女",
 	"Youkai Watch": "妖怪手表",
@@ -106,6 +107,8 @@ var c_name = {
 	"Teekyuu 4": "网球并不可笑嘛",
 	"Takamiya Nasuno Desu!": "我是高宫茄乃!",
 	"Fate - Kaleid  Liner Prisma Illya Zwei Herz!": "魔法少女☆伊莉雅",
+	"Dragon Ball Super": "七龙珠-超",
+	"Inu x Boku SS": "妖狐x仆SS",
 };
 
 for (var i = ArrText.length - 1; i >= 0; i--) {
