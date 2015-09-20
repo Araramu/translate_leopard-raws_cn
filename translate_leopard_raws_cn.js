@@ -31,6 +31,7 @@ var c_name = {
 	"Gintama (2015)": "銀魂(2015)", 
 	"Suzakinishi The Animation": "洲崎西", 
 	"Overlord": "Overlord", 
+	"Overlord Special": "Overlord 小剧场", 
 	"Sore ga Seiyuu!": "那就是声优!", 
 	"Bikini Warriors": "比基尼勇士", 
 	"Monster Musume no Iru Nichijou": "魔物娘的同居日常", 
