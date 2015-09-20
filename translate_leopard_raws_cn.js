@@ -109,6 +109,7 @@ var c_name = {
 	"Fate - Kaleid  Liner Prisma Illya Zwei Herz!": "魔法少女☆伊莉雅",
 	"Dragon Ball Super": "七龙珠-超",
 	"Inu x Boku SS": "妖狐x仆SS",
+	"Yuru Yuri Nachuyachumi!+": "摇曳百合-夏日时光!+",
 };
 
 for (var i = ArrText.length - 1; i >= 0; i--) {
