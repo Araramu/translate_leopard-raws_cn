@@ -45,7 +45,7 @@ var c_name = {
 	"Sailor Moon": "美少女战士", 
 	"Wakako-zake": "和歌子酒", 
 	"God Eater": "噬神者", 
-	"Baby Steps (2015)": "满月酒 Baby Steps(2015)", 
+	"Baby Steps (2015)": "网球优等生 Baby Steps(2015)", 
 	"Arslan Senki": "阿尔斯兰战记 Arslan Senki", 
 	"One Piece": "海贼王", 
 	"Go! Princess Precure": "Go!PRINCESS光之美少女",
