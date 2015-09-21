@@ -7,7 +7,9 @@
  
 * 2.复制以下文本
 
+"""
 javascript:(function(r){!!r?r():(function(d){s=d.createElement('script');s.setAttribute('src','https://rawgithub.com/Araramu/translate_leopard-raws_cn/master/translate_leopard_raws_cn.js');s.setAttribute('charset','utf-8');d.getElementsByTagName('head')[0].appendChild(s)})(document)})()
+"""
 
 * 3.打开浏览器 console (按下F12 再按Esc)
 
