@@ -157,6 +157,7 @@ var c_name = {
 	"Taimadou Gakuen 35 Shiken Shoutai": "对魔导学园35试验小队",
 	"Kamisama Minarai - Himitsu no Cocotama": "见习神明 - 秘密的心灵",
 	"Fushigi na Somera-chan": "不思议美眉",
+	"High School Star Musical": "高校星歌劇",
 };
 
 for (var i = ArrText.length - 1; i >= 0; i--) {
