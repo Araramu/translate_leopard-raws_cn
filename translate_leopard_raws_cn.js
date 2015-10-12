@@ -143,6 +143,20 @@ var c_name = {
 	"One-Punch Man": "一拳超人",
 	"Comet Lucifer": "彗星路西法",
 	"Haikyuu!! Second Season": "排球少年!! 第二季",
+	"JK Meshi!": "JK食堂!",
+	"Teekyuu 6": "网球并不可笑嘛 第6季",
+	"Osomatsu-san": "小松先生",
+	"Yuru Yuri San Hai!": "摇曳百合 3☆High!",
+	"Hidan no Aria AA": "绯弹的亚里亚AA",
+	"DD Hokuto no Ken 2 - Ichigo Aji Plus": "斗神拳2 草莓味",
+	"Tantei Team KZ - Jiken Note": "侦探小队KZ事件簿",
+	"Dance with Devils": "与魔共舞",
+	"Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru": "樱子小姐的脚下埋着尸体",
+	"Toshite Gets-sareta Ken": "我被绑架到贵族女校当庶民样本",
+	"Diabolik Lovers More, Blood": "魔鬼恋人第二季",
+	"Taimadou Gakuen 35 Shiken Shoutai": "对魔导学园35试验小队",
+	"Kamisama Minarai - Himitsu no Cocotama": "见习神明 - 秘密的心灵",
+	"Fushigi na Somera-chan": "不思议美眉",
 };
 
 for (var i = ArrText.length - 1; i >= 0; i--) {
